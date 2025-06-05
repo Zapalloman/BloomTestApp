@@ -1,0 +1,6 @@
+bin/
+bin/gui
+bin/modelo
+bin/util
+
+.qodo

@@ -1,0 +1,56 @@
+[ASIGNATURA]Paradigmas de Programación
+[PREGUNTA_MULTIPLE]
+¿Qué paradigma usa Java para herencia?
+a) Funcional
+b) Orientado a Objetos*
+c) Lógico
+[BLOOM]Aplicar
+[PREGUNTA_VF]
+Java es un lenguaje compilado e interpretado. (V/F)*V
+[BLOOM]Recordar
+[PREGUNTA_MULTIPLE]
+¿Qué paradigma de programación se basa en el concepto de "objetos"?
+a) Funcional
+b) Orientado a Objetos*
+c) Lógico
+d) Imperativo
+[BLOOM]Recordar
+[PREGUNTA_VF]
+En Java, todas las clases heredan de la clase 'Object'. (V/F)*V
+[BLOOM]Recordar
+[PREGUNTA_MULTIPLE]
+¿Cuál de estos lenguajes es puramente funcional?
+a) Java
+b) Haskell*
+c) Python
+d) C++
+[BLOOM]Entender
+[PREGUNTA_VF]
+El polimorfismo permite que un objeto se comporte de múltiples formas. (V/F)*V
+[BLOOM]Entender
+[PREGUNTA_MULTIPLE]
+Si queremos implementar una función pura (sin efectos secundarios), ¿qué debemos evitar?
+a) Modificar variables globales*
+b) Usar recursión
+c) Retornar valores
+d) Recibir parámetros
+[BLOOM]Aplicar
+[PREGUNTA_VF]
+El patrón Singleton viola el principio de responsabilidad única. (V/F)*F
+[BLOOM]Analizar
+[PREGUNTA_VF]
+El principio LSP (Liskov Substitution) permite redefinir métodos privados en subclases. (V/F)*F
+[BLOOM]Evaluar
+[PREGUNTA_VF]
+Un decorator pattern es mejor que inheritance para añadir funcionalidades dinámicamente. (V/F)*V
+[BLOOM]Crear
+[PREGUNTA_MULTIPLE]
+¿Qué estructura de datos usarías para implementar una cola con prioridad?
+a) Array
+b) LinkedList
+c) Heap*
+d) Stack
+[BLOOM]Aplicar
+[PREGUNTA_VF]
+El garbage collector de Java garantiza que no habrá memory leaks. (V/F)*F
+[BLOOM]Analizar
